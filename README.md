@@ -1,4 +1,4 @@
-# DQN CartPole-v1: Reinforcement Learning TP1 🚀
+# DQN CartPole-v1: Reinforcement Learning 🚀
 
 [![Training Results](cartpole_agent_performance.gif)](cartpole_agent_performance.gif)
 
